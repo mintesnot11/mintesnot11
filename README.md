@@ -15,16 +15,16 @@ I'm an aspiring software developer with a strong foundation in programming and p
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**
-Java • Python • JavaScript • React • Next.js • Flutter • Dart • C# • .NET
+Java • Python • JavaScript • React • Next.js • Flutter • Dart
 
 **Web & APIs**
-HTML • CSS • REST APIs • GraphQL • Hasura
+HTML • CSS • REST APIs • GraphQL
 
 **Databases**
 SQL • MongoDB • SQLite
 
 **Tools & Platforms**
-GitHub • Azure DevOps • Firebase • Figma • WordPress • Trello • Slack
+GitHub • Azure DevOps • Firebase • Figma • WordPress • Slack
 
 ---
 
