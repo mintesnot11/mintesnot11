@@ -61,8 +61,7 @@ GitHub • Azure DevOps • Firebase • Figma • WordPress • Trello • Slac
 ## 📫 Connect With Me
 
 📧 Email: [mintesnotgirma@icloud.com](mailto:mintesnotgirma@icloud.com)
-💼 LinkedIn: (add your link)
-🌐 Portfolio: (optional)
+💼 LinkedIn: https://www.linkedin.com/in/mintesnot-girma-557771357/
 
 ---
 
